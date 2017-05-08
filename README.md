@@ -5,7 +5,7 @@ Write a JavaScript program to display the current day and time in the following 
 Sample Output : Today is : Friday. 
 Current time is : 4 PM : 50 : 22
 
-Final commit below:
+Final working example below:
 
 	<script>
     var today = new Date();
